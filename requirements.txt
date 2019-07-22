@@ -1,0 +1,5 @@
+# HTTP and network libs
+urllib3
+
+# Testing libs
+pytest
